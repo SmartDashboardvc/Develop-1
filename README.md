@@ -1,5 +1,5 @@
-# Develop-1
-Deelopdracht 3: develop 1 ( group 3 )
+# Develop-1 Human Body
+Deelopdracht 3: develop 1 ( group 3 ): Coopman Viktor, Slos Arne
 
 ## Develop 1: Human Body
 ### Doelstellingen
